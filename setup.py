@@ -14,7 +14,7 @@ setuptools.setup(
     ],
     entry_points={
         'jupyter_serverproxy_servers': [
-            'vscode = vscode-proxy:setup_vscode',
+            'vscode = vscode_proxy:setup_vscode',
         ]
     },
     package_data={

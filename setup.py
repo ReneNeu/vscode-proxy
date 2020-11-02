@@ -18,6 +18,6 @@ setuptools.setup(
         ]
     },
     package_data={
-        'vscode-proxy': ['icons/*'],
+        'vscode_proxy': ['icons/*'],
     },
 )
